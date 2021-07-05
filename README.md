@@ -8,8 +8,8 @@
 5. Import the **hospital.sql** file that you just cut from the project directory.
 6. Make sure you are already inside the database you just created before importing.
 7. After the <addr> import is complete, the database will load two tables, **patient** and **patientreport**.
-8. Now open your IDE(eg netbeans), click file menu, click OPEN PROJECT
-9. Select the folder containing the project files, i.e the folder containing the file below
+8. Now open your IDE(eg netbeans), click file menu, click OPEN PROJECT, locate your cloned project then
+9. Select the folder containing the project files, i.e the folder containing the files below
   ![image](https://user-images.githubusercontent.com/59168713/124418570-74254600-dd64-11eb-815e-7379df1db1ce.png)
 10. Locate login.java in the source packages, open it and run it.
   
@@ -21,4 +21,4 @@
   alexander   alexander
   steve       steve
   
-12.Assuming your local server is up and running, its clear to me that the project should be running too.
+12.Congratulations, you made it to the last step.
